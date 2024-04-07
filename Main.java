@@ -1,2 +1,2 @@
 public class Main {
-}eebkbaskjdbksabhdksabhkdbhksa
+}kepasa vacos
